@@ -59,3 +59,13 @@ Obs: Tabelas que possui a PK(Primary Key) quando relacionadas com outra tabela, 
 - Exemplo que usa WebSocket: Discord
 
 Criamos também a configuração do Connection para as conexões com os usuário
+
+# 5º dia NLW#5
+
+**Básicamente no ultimo dia da NLW#5 não teve nada que não vimos durante a semana**
+
+## O que realizamos nesse ultimo dia?
+
+- Esse dia a gente apenas finalizou a aplicação
+
+Terminando as páginas de Atendimento e do Cliente
