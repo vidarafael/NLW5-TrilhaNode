@@ -47,3 +47,15 @@
 - Aprendemos também sobre relacionar tabelas com outras
 
 Obs: Tabelas que possui a PK(Primary Key) quando relacionadas com outra tabela, ela passa a ser a FK(Foreing key)
+
+# 4º dia NLW#5
+
+# O que aprendemos?
+
+**Aprendemos o que é WebSocket**
+
+- WebSocket é uma tecnologia de requisição e resposta imediata, entre Client e Servidor
+- Graças a ela podemos criar um chat com envio e respostas imediatas, que é o intuito da aplicação do NLW
+- Exemplo que usa WebSocket: Discord
+
+Criamos também a configuração do Connection para as conexões com os usuário
